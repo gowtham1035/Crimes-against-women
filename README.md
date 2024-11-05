@@ -45,7 +45,7 @@ pip install pandas matplotlib seaborn
 ## Usage
 1. Clone the repository:
    ```bash
-   (https://github.com/gowtham1035/Crimes-against-women-analysis.git)
+   https://github.com/gowtham1035/Crimes-against-women-analysis.git
    cd CrimesOnWomenAnalysis
    ```
 
