@@ -46,7 +46,6 @@ pip install pandas matplotlib seaborn
 1. Clone the repository:
    ```bash
    https://github.com/gowtham1035/Crimes-against-women-analysis.git
-   cd CrimesOnWomenAnalysis
    ```
 
 2. Make sure the dataset `CrimesOnWomenData.csv` is in the project directory.
