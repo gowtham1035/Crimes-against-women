@@ -61,6 +61,3 @@ pip install pandas matplotlib seaborn
 The analysis includes two main visualizations:
 1. **Total Rape Cases per Year**: A line plot showing the total number of cases recorded each year.
 2. **State with the Highest Rape Cases Each Year**: A bar plot showing the state with the highest reported cases for each year.
-
-
-This README should provide a clear guide for anyone looking to understand and reproduce your analysis on GitHub. Be sure to replace `https://github.com/your-username/CrimesOnWomenAnalysis.git` with your actual repository URL.
