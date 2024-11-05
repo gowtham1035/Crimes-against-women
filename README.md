@@ -1,5 +1,3 @@
-Here is a README file template for your project. This will describe the analysis and the code provided in the `analysis.ipynb` notebook.
-
 ---
 
 # Crimes on Women Analysis
